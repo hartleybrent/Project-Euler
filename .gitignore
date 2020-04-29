@@ -3,7 +3,10 @@ problem1
 problem2
 problem3
 problem4
+<<<<<<< HEAD
 exe/problem5.obj
 *.exe
 problem5
 problem6
+=======
+>>>>>>> parent of 883e6db... Project Euler Problem 5
