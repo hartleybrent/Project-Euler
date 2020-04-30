@@ -35,5 +35,5 @@ int main()
 {
     SumOfSquares(); // Run caculation functions
     SquareOfSums(); 
-    cout <<"The answer is:" <<x <<" - " <<y <<" or: " <<(x - y) <<endl; // Print answer
+    cout <<"The answer is:" <<(x - y) <<endl; // Print answer
 }
