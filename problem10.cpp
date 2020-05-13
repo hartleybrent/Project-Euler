@@ -29,7 +29,7 @@ int main()
         bool primeflag = is_prime(num);
         if (primeflag == true)
         {
-            ans = ans + num;
+            ans += num;
         }
     }
     cout <<"The answer is: " <<ans <<endl;
