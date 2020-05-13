@@ -22,9 +22,9 @@ bool is_prime(int num)
 
 int main()
 {
-    long long ans = 0;
+    long long ans = 1;
     cout <<"Caculating..." <<endl;
-    for (int num = 1; num <= 2000000; num = num + 2)
+    for (int num = 1; num <= 2000000; num += 2)
     {
         bool primeflag = is_prime(num);
         if (primeflag == true)
